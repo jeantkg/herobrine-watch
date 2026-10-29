@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "first_min_seconds": 8.0,
+  "first_max_seconds": 18.0,
+  "min_interval_seconds": 30.0,
+  "max_interval_seconds": 90.0,
+  "min_distance": 8.0,
+  "max_distance": 14.0,
+  "despawn_distance": 32.0,
+  "gaze_seconds": 0.06,
+  "jumpscares_enabled": true,
+  "jumpscare_min_seconds": 60.0,
+  "jumpscare_max_seconds": 180.0,
+  "jumpscare_duration": 0.65,
+  "show_status": true
+}

@@ -1,0 +1,9 @@
+{
+  "first_min_seconds": 0.1,
+  "first_max_seconds": 0.1,
+  "min_interval_seconds": 1.5,
+  "max_interval_seconds": 1.5,
+  "jumpscare_min_seconds": 1.0,
+  "jumpscare_max_seconds": 1.0,
+  "jumpscare_duration": 0.2
+}
